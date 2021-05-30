@@ -1,0 +1,52 @@
+  
+    p{
+        color:black;
+        font-family:arial;
+    }
+    h1{
+color: #000;
+text-transform: uppercase;
+margin: right;
+text-transform: uppercase;
+background-color: salmon;
+text-align: center;
+
+    }
+body{
+background-color: aquamarine;
+
+}
+div{
+background-color: white;
+border: rgb(93, 64, 224);
+padding: 12px;
+margin:0 auto;
+width: 60%;
+}
+fieldset{
+margin-bottom: 12px;
+}
+legend{
+    background-color: #74b49b;
+}
+img{
+    border-radius: 50%;
+    
+    margin-right: 20px;
+    float: left;
+    padding: right;
+}
+.Probando{
+    color: blue;
+    font-weight: bold;
+    font-style: normal;
+}
+h2{
+    position:static; 
+	margin:0 auto;
+	height:20%;
+	width:94%;
+	border:1px solid #80BC3A;
+	margin-bottom:20px;
+	background-color: #98E53E;   
+}
